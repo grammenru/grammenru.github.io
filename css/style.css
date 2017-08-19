@@ -1,0 +1,28 @@
+body{
+    background: #d9d9d9;
+}
+
+#main, .title{
+    text-align: center;
+}
+.part{
+    text-align: center;
+}
+.text {
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.flex-block{
+    display: flex;
+    margin-left: 20px;
+}
+.affix{
+    font-style: italic;
+    font-weight: bold;
+}
